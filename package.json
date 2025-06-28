@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  },
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "A simple tea manager application backend API",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "express",
+    "json",
+    "tea"
+  ],
+  "author": "Ganesh Rodge",
+  "license": "ISC"
+}
